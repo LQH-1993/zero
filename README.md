@@ -1,2 +1,2 @@
 # zero
-初入GitHub创建的存储库
+Python3学习路程
